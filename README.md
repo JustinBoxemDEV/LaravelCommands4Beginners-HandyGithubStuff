@@ -1,4 +1,4 @@
-To run the server///
+To run the server --
 php artisan serve
 To run the seeders
 php artisan db:seed
