@@ -1,7 +1,9 @@
 //To run the server
+
 php artisan serve
 
 //To run the seeders
+
 php artisan db:seed
 
 //To migrate the tables in the database
