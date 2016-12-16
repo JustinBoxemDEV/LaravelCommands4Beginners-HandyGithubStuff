@@ -1,5 +1,4 @@
 //To run the server
-
 php artisan serve
 
 //To run the seeders
