@@ -2,6 +2,7 @@ Laravel Framework version 5.3.29
 
 Usage:
   command [options] [arguments]
+  "[project folder location]/php artisan migrate" ~ Example command for migrating the migration tables.
 
 Options:
   -h, --help            Display this help message
