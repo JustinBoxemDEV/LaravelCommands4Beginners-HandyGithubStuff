@@ -1,0 +1,13 @@
+Basic manual for installing Laravel onto your system:
+
+Step 1: Get composer on your machine
+  -> Head over to: https://getcomposer.org/download/
+  -> Download the composer at the link provided here: https://gyazo.com/e25a41ca1700728b21fe50e1dfcd6c86?token=50ec47669cf678fc5b656924f6c107e1
+  
+Step 2: Make a storage folder (Here all your Laravel projects would go)
+  -> Make a folder on your machine, doesin't matters where, just make sure you can find it easilly.
+  
+Step 3: Using the command console
+  -> Run your cmd (Command Terminal)
+  -> Use the cd [PATH] to head to your storage folder, i.e: ..../gebruiker/ cd laravelProjects = ...../laravelProjects/
+  -> Once you have arrived at your storage folder's location, run the following command: composer create-project --prefer-dist laravel/laravel test
