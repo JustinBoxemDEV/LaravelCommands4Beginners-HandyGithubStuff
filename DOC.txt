@@ -1,4 +1,4 @@
-Laravel Framework version 5.3.29
+Laravel Framework Command Console Commands
 
 Usage:
   command [options] [arguments]
@@ -108,3 +108,12 @@ storage
  
  view
   view:clear           Clear all compiled view files
+
+=====================================================
+
+COMPOSER COMMANDS
+notice: run the updates once/twice a week to be sure
+*doesin't requires php artisan infront
+
+composer update*
+composer self-update*
