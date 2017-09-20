@@ -11,3 +11,7 @@ Step 3: Using the command console
   -> Run your cmd (Command Terminal)
   -> Use the cd [PATH] to head to your storage folder, i.e: ..../gebruiker/ cd laravelProjects = ...../laravelProjects/
   -> Once you have arrived at your storage folder's location, run the following command: composer create-project --prefer-dist laravel/laravel test
+  
+Step 4: Go once your project is created, navigate to your project by using "cd test" (or whatever u named your project) in the console.
+
+Step 5: Finally run "php artisan serve" to launch your project and start coding!
